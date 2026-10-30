@@ -1,0 +1,6 @@
+{
+  "appId": "com.zindagi.social",
+  "appName": "ZINDAGI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
